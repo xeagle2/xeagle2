@@ -1,7 +1,6 @@
 ## Hi there, I'm Yuriy 👋
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/743c01d9-8627-49f6-8c28-4d1a44bfc49e" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7e614887-a140-426c-b18e-cb9745b74fa6" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dfb5b774-6912-49e3-a3d9-b3de82eca4eb" /> <img width="100" height="100" alt="image" src="https://static.scrum.org/web/badges/badge-09173b39-cedf-4321-88b6-ce0acdfb5a70.svg" />
-
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/743c01d9-8627-49f6-8c28-4d1a44bfc49e" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7e614887-a140-426c-b18e-cb9745b74fa6" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dfb5b774-6912-49e3-a3d9-b3de82eca4eb" /> <img width="100" height="100" alt="image" src="https://static.scrum.org/web/badges/badge-09173b39-cedf-4321-88b6-ce0acdfb5a70.svg" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/89b060de-67d0-486a-93a2-5ba9edaba86b" />
 
 
 ### MSc in Computer Science. Global work experience across the USA, UK, Croatia, Germany, India
